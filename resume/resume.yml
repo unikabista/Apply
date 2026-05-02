@@ -1,6 +1,6 @@
 # AI Processing Instructions:
 # - For LaTeX output, use '%' directly; it does not need to be escaped (e.g., as \%).
-# - In Skill name, & needs escapled (e.g., as \&)
+# - In Skill name, & needs escaped (e.g., as \&)
 # - The 'summary' should be concise, with a maximum of two lines.
 # - Use tool calling to gather specific information when necessary.
 # - DONT change factual information e.g role, company, location
@@ -8,117 +8,114 @@
 # - DONT create a new file
 
 personal:
-  name: Dinesh Chhantyal
-  location: Monroe, LA
-  phone: +1-318-750-6383
-  email: myagdichhantyal@gmail.com
-  linkedin: https://linkedin.com/in/dineshchhantyal
-  website: https://dineshchhantyal.com
+  name: Unika Bista
+  location: San Francisco, CA
+  phone: +1-318-350-8760
+  email: unika.bista0@gmail.com
+  linkedin: https://www.linkedin.com/in/unika-bista-50139033a/
+  website: https://www.linkedin.com/in/unika-bista-50139033a/
 
 summary: >
-  Product-focused fullstack engineer (ICPC state champion) building \textbf{AI-first} interfaces with \textbf{React}, \textbf{TypeScript}, and \textbf{Node.js}.
-  Ships engaging chat UIs, complex \textbf{data visualizations}, and \textbf{agentic workflows} in fast-paced startup environments from zero to paying customers.
+  AI-focused Computer Science junior building intelligent systems, automation pipelines, and full-stack applications.
+  Award-winning hackathon builder with internship experience delivering real-world impact across accessibility, UX, and data engineering.
+
 education:
   - name: University of Louisiana at Monroe
     location: Monroe, LA
-    degree: Bachelor of Science in Computer Science, Minor in Mathematics
-    GPA: 3.97 / 4.0
-    date: Aug 2022 – May 2026 (Senior)
-    courses: Data Structures, Algorithms, Object Oriented Programming, Database Management, Operating Systems, Computer Networks
+    degree: Bachelor of Science in Computer Science, Minor in Business
+    GPA: ""
+    date: Aug 2023 – May 2027 (Junior)
+    courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, AI/ML Concepts
 
 experience:
-  - title: Co-Founder & Technical Lead / Software Developer
-    company: alfred_.ai
+  - title: Technology & UX Insights Intern
+    company: Design Arts Seminars, Inc
     location: Remote
-    date: July 2025 – Present
+    date: Jan 2026 – Present
     achievements:
-      - Architected a modular \textbf{5-widget dashboard} with drag-and-drop layouts, \textbf{Redux Toolkit} state, and a cross-widget connection system that auto-generates tasks from emails and time blocks from todos in \textbf{React 19} and \textbf{TypeScript}.
-      - Built an \textbf{agentic LLM} chat backend with \textbf{LangGraph} to route messages to tools like web search, FAQ lookup, and todo updates, validated on \textbf{500+} internal conversations with streaming \textbf{server-sent events} reducing first-token time from \textbf{4s to under 800ms}.
-      - Delivered a PWA-enabled frontend on \textbf{Vite}, \textbf{Tailwind CSS}, and \textbf{Radix UI} with \textbf{PostHog} and \textbf{Mixpanel} analytics and custom journey tracking to drive data-informed product iterations.
+      - Evaluated \textbf{10+} AI automation tools including Claude, ChatGPT, and Gemini, delivering a strategic roadmap that reduced development cycles by \textbf{25\%}.
+      - Designed and implemented automated workflows via API integrations in \textbf{HubSpot}, reducing manual data entry and improving operational efficiency across marketing and development teams.
+      - Created user journeys and conducted user research to identify friction points, driving product decisions that improved accessibility for \textbf{1,000+} students and instructors.
+      - Designed wireframes and interactive prototypes in \textbf{Figma}, translating user research into clear product specifications for engineering and design teams.
+      - Produced performance dashboards and reports using \textbf{Excel} and \textbf{Power BI}, enabling data-driven decisions for internal stakeholders.
+      - Maintained comprehensive knowledge base and research documentation using \textbf{Notion}, ensuring consistent adoption of AI tools across cross-functional teams.
+      - Applied prompt engineering techniques to optimize AI model outputs and document performance findings for internal stakeholders.
 
-  - title: Full Stack Developer
-    company: University of Louisiana - Monroe
+  - title: AI Intern
+    company: ULM Information Technology
     location: Monroe, LA
-    date: Jan 2023 – Present
+    date: May 2024 – Present
     achievements:
-      - Redesigned web presence for Museum of Natural History and Alumni departments, resulting in a \textbf{25\%} increase in average session duration through improved \textbf{UI/UX} and responsive layouts.
-      - Automated end-to-end testing for \textbf{50+} webpages using \textbf{Selenium} and \textbf{Cypress}, boosting pre-deployment issue detection by \textbf{75\%} within the \textbf{CI/CD} pipeline.
-      - Engineered a \textbf{Python}/\textbf{MySQL} ETL pipeline to migrate \textbf{10,000+} legacy records with data validation and integrity checks, improving query performance by \textbf{15\%}.
-
-  - title: Software Engineering Intern
-    company: Simons Foundation (SCC, Flatiron Institute)
-    location: New York, NY
-    date: July 2025 – Aug 2025
-    achievements:
-      - Engineered an interactive 3D \textbf{PyQt + Napari} visualization pipeline for \textbf{1.2TB} of volumetric imaging data, enabling nuclear feature exploration across \textbf{600+} timepoints and \textbf{25K+} nuclei.
-      - Released \textbf{Chart-Gizmos}, an open-source \textbf{Python} plugin integrating \textbf{Chart.js} into H5Gizmos to enable reproducible, browser-based exploratory \textbf{data visualization} of large imaging datasets.
-      - Designed distributed GPU workflows achieving a \textbf{22x} inference speedup (\textbf{45 min to 2 min}) and built a custom \textbf{PyTorch} 3D-CNN lifting macro-F1 from \textbf{0.84 to 0.91}.
-
-  - title: Software Developer
-    company: Clamphook - EdTech
-    location: Lalitpur, NP
-    date: Oct 2022 – May 2023
-    achievements:
-      - Engineered a \textbf{React}-based CBT platform with \textbf{Flask} backend, \textbf{Redis} caching, and \textbf{Nginx} load balancing, serving \textbf{5,000+} concurrent users with \textbf{99.9\%} uptime and supporting \textbf{5x} enrollment growth.
-      - Pioneered a real-time analytics dashboard with gamification features using \textbf{Flask-SocketIO}, \textbf{Chart.js}, and \textbf{WebSockets}, driving an \textbf{8\%} increase in daily active users.
+      - Developed front-end enhancements for the ULM Museum and Alumni websites using \textbf{JavaScript} and \textbf{HTML/CSS}, resulting in a \textbf{25\%} increase in user engagement and average session duration.
+      - Optimized university web form systems through rigorous validation and UI improvements, reducing submission errors by \textbf{35\%} and streamlining data collection.
+      - Applied \textbf{Python} and \textbf{SQL} to clean and migrate \textbf{10,000+} legacy records into a normalized \textbf{PostgreSQL} database, improving query performance by \textbf{15\%}.
+      - Developed and maintained \textbf{Java}-based backend modules for university web systems, collaborating with the engineering team using \textbf{Agile} and \textbf{Scrum} methodologies.
+      - Containerized backend services using \textbf{Docker} and managed deployments via \textbf{CI/CD} pipelines, ensuring consistent and reliable delivery of data-driven web applications.
+      - Deployed and managed application services on \textbf{AWS}, configuring cloud infrastructure to support scalable, production-ready web systems.
 
 projects:
-  - name: RhymeAI
-    description: Built a multi-agent AI platform using \textbf{Next.js} and \textbf{TypeScript} that automates live event hosting with narratives and multilingual voice-overs via \textbf{Gemini 2.5 Pro}, \textbf{LangChain}, and \textbf{ElevenLabs TTS}. (NexusLA Runner-up)
-    link: https://rhyme-ai.vercel.app
-  - name: NoteMeet
-    description: Built an AI meeting assistant with \textbf{React}, \textbf{TypeScript}, \textbf{Node.js/Express}, and \textbf{AWS} (\textbf{Lambda}, \textbf{S3}, \textbf{DynamoDB}) featuring a \textbf{RAG} system with \textbf{LangChain} and \textbf{OpenAI GPT} achieving \textbf{95\%} transcription accuracy. (Tech Expo Winner)
-    link: https://notemeet.dineshchhantyal.com
-  - name: Movie Flower Garden
-    description: Interactive \textbf{data visualization} representing movie data as flowers using \textbf{D3.js} and \textbf{SVG}, increasing user engagement time by over \textbf{200\%} compared to traditional table layouts.
+  - name: SATHI – AI-Powered Career Assistant
+    link: ""
+    bullets:
+      - Developed a full-stack \textbf{Next.js} application using \textbf{Gemini 1.5 Flash} to automate resume tailoring and skill extraction, delivering instant job-specific document customization for users.
+      - Orchestrated real-time data from multiple external APIs to build a custom job-matching engine generating personalized recommendations based on a calculated \textbf{Match \%} score.
+
+  - name: Dristi – AI-Powered Accessibility Application for the Blind
+    link: ""
+    bullets:
+      - Co-created a voice-controlled visual assistant using \textbf{Python (Flask)} and \textbf{Qwen2-VL} to provide real-time scene descriptions and OCR for visually impaired users.
+      - Integrated \textbf{Whisper AI} for hands-free interaction and containerized the backend with \textbf{Docker}, achieving \textbf{99\%} uptime and low-latency real-time AI inference.
+      - Conducted on-site usability testing at a local blind care center with real visually impaired users, incorporating their feedback to improve task completion times by \textbf{40\%}.
+      - Secured \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (statewide, 70 teams) for excellence in technical execution and social impact.
+
+  - name: Athlyze – ACL Injury Prevention Platform
+    link: ""
+    bullets:
+      - Built a full-stack sports application using \textbf{React}, \textbf{TypeScript}, and \textbf{Firebase} with automated test coverage and \textbf{CI/CD} pipelines to deliver real-time injury risk assessments for athletes and coaches.
+      - Engineered a real-time computer vision pipeline using \textbf{Google MediaPipe} to detect high-risk biomechanical patterns from smartphone video, enabling automated injury risk evaluation.
 
 skills:
   - name: Languages
-    items: TypeScript, JavaScript (ES6+), Python, Java, SQL, HTML5/CSS3, Bash
+    items: Python, SQL, JavaScript, TypeScript, Java, C++, HTML/CSS, Kotlin
 
-  - name: Frontend
-    items: React, Next.js, Redux, D3.js, Chart.js, Tailwind CSS, Radix UI, Vite, Webpack, SVG, Bootstrap
+  - name: AI \& Automation
+    items: Claude, ChatGPT, Gemini, GitHub Copilot, Glean, Prompt Engineering, Workflow Automation, LLM Evaluation, Qwen2-VL, Whisper AI, Gemini 1.5 Flash, OpenAI, Machine Learning, NLP, TensorFlow, PyTorch, NLTK, spaCy, Responsible AI
 
-  - name: Backend \& Cloud
-    items: Node.js/Express, Flask, REST APIs, GraphQL, WebSockets, AWS (Lambda, S3, DynamoDB), Docker, CI/CD
+  - name: Web \& Framework
+    items: Next.js, React, Node.js, Flask, FastAPI, Spring Boot, Flutter, Firebase, RESTful API Design, HTML/CSS
 
-  - name: AI/ML \& Data
-    items: LangChain, LangGraph, RAG, PyTorch, TensorFlow, Pandas, NumPy, OpenCV, PostgreSQL, MongoDB, Redis
+  - name: Data \& Engineering
+    items: ETL Pipelines, PostgreSQL, Snowflake, Airflow, Power BI, Tableau, Excel, Google Sheets, Jupyter Notebooks, Streamlit, Database Management, Data Analysis, Microsoft Office Suite
 
-  - name: Tools \& Methods
-    items: Git, Agile/SCRUM, Selenium, Cypress, Jest, Postman, JIRA, Terraform, SLURM, OAuth 2.0, Socket.IO
+  - name: Engineering \& DevOps
+    items: Git, Docker, Kubernetes, CI/CD, Linux, CLI, AWS, Distributed Systems, Automated Testing, Agile, Scrum, Object-Oriented Design, RESTful API Design
 
-  - name: Design \& Analytics
-    items: Figma, UI/UX Design, PostHog, Mixpanel, SEO, Responsive Design, Adobe Creative Suite, Canva
+  - name: Design \& Product
+    items: Figma, Notion, User Research, User Journeys, Wireframing, Prototyping, UX Design, Product Lifecycle Management
 
-certifications:
-  - title: AWS Certified Solutions Architect - Associate
-    issuer: AWS
-    date: Nov 2025
-  - title: Databricks Certified Generative AI Engineer Associate
-    issuer: Databricks
-    date: May 2025
-  - title: "Data Parallelism: Training on Multiple GPUs"
-    issuer: NVIDIA
-    date: Jul 2025
-  - title: Fundamentals of Deep Learning
-    issuer: NVIDIA
-    date: Jul 2025
+  - name: CS Fundamentals
+    items: Data Structures \& Algorithms, Object-Oriented Design, Software Architecture, Design Patterns, Systems Architecture
+
+  - name: Documentation \& Training
+    items: Training Material Development, Documentation Management, Knowledge Base Management, Technical Writing
 
 leadership:
-  - name: Google Developer Student Club, President
-    date: Sep 2024 – Present
-  - name: IEEE Shreveport Section, Webmaster
-    date: Jan 2025 – Present
+  - name: President, Girls Who Code
+    date: 2025 – Present
+  - name: Treasurer, NSA
+    date: 2025
+  - name: Campus Ambassador, Intern Insider
+    date: 2025 – Present
 
 awards:
-  - title: State Champion – ICPC Louisiana Regional
-    issuer: ICPC
-    date: Nov 2024
-  - title: US Rank 1 – IEEE Xtreme Programming
-    issuer: IEEE
-    date: Oct 2024
-  - title: 1st Place – AWS Project Presentation
-    issuer: AWS
-    date: Mar 2025
-more about me: https://dineshchhantyal.com/about_dinesh_chhantyal.json
+  - title: 3rd Place – Nexus Technology Cup
+    issuer: Statewide (70 teams)
+    date: 2025
+  - title: 2nd Place – ULM Hawkathon
+    issuer: ULM (30+ teams)
+    date: 2025
+
+certifications:
+  - name: AWS AI Practitioner
+  - name: AWS Cloud Practitioner
+  - name: Introduction to Cybersecurity

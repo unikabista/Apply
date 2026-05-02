@@ -24,20 +24,20 @@
 #
 # [Closing with a comma] - Closing with a comma
 #
-# sign: Dinesh Chhantyal
+# sign: Unika Bista
 #
 # [Typed name]
 
 personal_information:
-  name: "Dinesh Chhantyal"
+  name: "Unika Bista"
   address:
     line: "Monroe, LA"
     postal_code: "71203"
     country: "United States"
   phone:
-    mobile: "+1-318-750-6383"
-  email: "myagdichhantyal@gmail.com"
-  homepage: "https://www.dineshchhantyal.com"
+    mobile: "+1-318-350-8760"
+  email: "unika.bista0@gmail.com"
+  homepage: "https://www.linkedin.com/in/unika-bista-50139033a/"
 
 recipient:
   name: "Hiring Committee"
@@ -54,4 +54,4 @@ letter:
 
     At the University of Louisiana at Monroe, I built and maintained data pipelines and ETL processes using SQL and Python, supporting analytics and reporting for university operations. I have experience working with cloud platforms, Airflow, and CI/CD automation, and I enjoy collaborating with analysts and engineers to deliver reliable, scalable data solutions. My background in optimizing SQL queries, documenting pipeline flows, and troubleshooting data issues has prepared me to contribute to Covista’s data-driven culture.
 
-    I am eager to bring my technical skills and collaborative mindset to your team, and to help Covista continue shaping the future of healthcare education. Thank you for considering my application. Please contact me at +1-318-750-6383 or myagdichhantyal@gmail.com.
+    I am eager to bring my technical skills and collaborative mindset to your team, and to help Covista continue shaping the future of healthcare education. Thank you for considering my application. Please contact me at +1-318-350-8760 or unika.bista0@gmail.com.

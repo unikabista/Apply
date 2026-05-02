@@ -1,10 +1,11 @@
+import os
 from mcp.server.fastmcp import FastMCP as App
 import yaml
 from functools import lru_cache
 from typing import Any, Dict, List, Optional
 
 app = App()
-resume_path = "/Users/dineshchhantyal/Documents/ResumeCoverLetterGenerator/mcp/about_dinesh_chhantyal.yml"
+resume_path = os.path.join(os.path.dirname(__file__), "about_unika_bista.yml")
 
 
 @lru_cache(maxsize=1)
@@ -394,7 +395,7 @@ def get_scholarships_section():
 
 @app.tool(
     name="about_me_brief",
-    description="Return a short, easy bio about Dinesh Chhantyal (name, location, one-line summary, and key contacts) from YAML.",
+    description="Return a short, easy bio about Unika Bista (name, location, one-line summary, and key contacts) from YAML.",
 )
 def about_me_brief():
     return _about_me_brief_text()
@@ -402,7 +403,7 @@ def about_me_brief():
 
 @app.tool(
     name="about_me_detailed",
-    description="Return a detailed overview about Dinesh Chhantyal with education, highlights of experience, skills, and selected projects from YAML.",
+    description="Return a detailed overview about Unika Bista with education, highlights of experience, skills, and selected projects from YAML.",
 )
 def about_me_detailed():
     return _about_me_detailed_text()

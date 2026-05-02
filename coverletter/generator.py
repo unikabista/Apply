@@ -169,7 +169,7 @@ Sincerely,
 
 % Digital signature line
 \\vspace{{6pt}}
-{{\\fontsize{{20}}{{24}}\\selectfont\\calligra Dinesh Chhantyal}}
+{{\\fontsize{{20}}{{24}}\\selectfont\\calligra Unika Bista}}
 \\vspace{{4pt}}
 
 % Typed name

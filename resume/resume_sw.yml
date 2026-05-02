@@ -8,108 +8,78 @@
 # - DONT create a new file
 
 personal:
-  name: Dinesh Chhantyal
+  name: Unika Bista
   location: Monroe, LA
-  phone: +1-318-750-6383
-  email: myagdichhantyal@gmail.com
-  linkedin: https://linkedin.com/in/dineshchhantyal
-  website: https://dineshchhantyal.com
+  phone: +1-318-350-8760
+  email: unika.bista0@gmail.com
+  linkedin: https://www.linkedin.com/in/unika-bista-50139033a/
+  website: https://www.linkedin.com/in/unika-bista-50139033a/
 
 summary: >
-  Full-stack developer designing and implementing integration solutions with \textbf{TypeScript}/\textbf{Node.js}, \textbf{REST APIs}, and data transformation middleware.
-  Translates business requirements into technical solutions; builds reliable, scalable integrations that connect enterprise systems and streamline client workflows.
+  AI-focused Computer Science junior building intelligent systems, automation pipelines, and computer vision applications.
+  Award-winning hackathon builder (Dristi) with internship experience delivering real-world impact across accessibility, UX, and data engineering.
+
 education:
   - name: University of Louisiana at Monroe
     location: Monroe, LA
-    degree: Bachelor of Science in Computer Science, Minor in Mathematics
-    GPA: 3.97 / 4.0
-    date: Aug 2022 – May 2026 (Senior)
-    courses: Data Structures, Algorithms, Object Oriented Programming, Database Management, Operating Systems, Computer Networks
+    degree: Bachelor of Science in Computer Science, Minor in Business
+    GPA: ""
+    date: Aug 2023 – May 2027 (Junior)
+    courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, AI/ML Concepts
 
 experience:
-  - title: Software Developer / Product Analyst
-    company: Alfred (ScribeHQ)
+  - title: Technology & UX Insights Intern
+    company: Design Arts Seminars, Inc
     location: Remote
-    date: July 2025 – Present
+    date: Jan 2026 – Present
     achievements:
-      - Build Alfreds \textbf{agentic LLM backend} with \textbf{LangChain/LangGraph} and a mixture of experts style agentic flow to route chat messages to tools like web search, FAQ lookup, and todo updates, validated on more than \textbf{500} internal conversations.
-      - Implement a Supabase Edge Function chat pipeline that streams LLM replies with server sent events, reducing first token latency from about \textbf{2 seconds} to under \textbf{1 second} in local tests and improving perceived responsiveness.
-      - Analyzed \textbf{500+} internal conversations to evaluate prompt relevance and tool routing, improving outcomes through human-in-the-loop review and iterative refinement.
-      - Design modular integrations for \textbf{Canvas} and \textbf{Moodle} using \textbf{REST APIs} and reusable components, improving platform scalability and accelerating integration development efficiency.
+      - Evaluated \textbf{10+} emerging AI automation frameworks, delivering a strategic roadmap to integrate machine learning tools that boosted workflow productivity by \textbf{25\%}.
+      - Mapped technical architecture to identify \textbf{5+} critical friction points, architecting \textbf{Zapier} automation workflows that reduced manual data entry by \textbf{20\%}.
+      - Collaborated with designers and educators to optimize UX workflows, improving accessibility and usability for \textbf{1K+} students and instructors.
+      - Piloted intelligent lead-nurturing tools within the \textbf{HubSpot} ecosystem to personalize customer interactions and scale digital marketing outreach by \textbf{20\%}.
 
-  - title: Full Stack Developer
-    company: University of Louisiana - Monroe
+  - title: Student Worker
+    company: ULM Information Technology
     location: Monroe, LA
-    date: Jan 2023 – Present
+    date: May 2024 – Present
     achievements:
-      - Integrated \textbf{Microsoft Teams} with \textbf{Drupal} via \textbf{OAuth 2.0} and scheduled jobs, shrinking manual content updates from \textbf{4 hours to 30 minutes} while surfacing operational metrics to stakeholders.
-      - Engineered a \textbf{Python}/\textbf{MySQL} ETL to migrate \textbf{10,000+} legacy records into \textbf{Drupal 10}; improved query performance by \textbf{15\%} and reduced storage costs by \textbf{10\%}.
-      # - Maintained and updated campus CMS sites (\textbf{Drupal}, \textbf{WordPress}), managed WCAG accessibility remediation and technical SEO fixes, and configured \textbf{Google Analytics} for site performance monitoring.
-      - Automated \textbf{ADA/WCAG 2.1} scans for \textbf{30,000+} assets using axe core, Lighthouse, and PAC in \textbf{GitHub Actions CI/CD}, generating remediation reports that guided accessibility fixes across campus sites.
-
-  - title: Software Engineering Intern (ML)
-    company: Simons Foundation (SCC, Flatiron Institute)
-    location: New York, NY
-    date: July 2025 – Aug 2025
-    achievements:
-      - Built an interactive \textbf{3D PyQt+Napari} pipeline for \textbf{1.2TB} of embryo imaging data, combining sliding window processing with distributed GPU workflows to analyze \textbf{600+} timepoints.
-      # - Orchestrated \textbf{SLURM} GPU jobs with \textbf{Ceph/S3} streaming and memory aware loaders, cutting inference time from \textbf{45 minutes to 2 minutes} (\textbf{22x}) and documenting operational playbooks for reproducible runs.
-      - Improved nucleus state classification \textbf{macro F1 from 0.84 to 0.91} by refining a custom \textbf{PyTorch 3D CNN} through targeted error analysis, augmentation, and iterative researcher feedback.
-
-  - title: Software Developer
-    company: Clamphook - EdTech
-    location: Lalitpur, NP
-    date: Oct 2022 – May 2023
-    achievements:
-      - Engineered a \textbf{Flask+React} CBT platform with Redis caching, Nginx load balancing, and monitoring capable of serving \textbf{5,000+} concurrent examinees and unlocking \textbf{5x} enrollment growth.
-      - Delivered a real time analytics dashboard with Flask SocketIO and Chart.js that visualized exam performance and helped increase daily active learners by about \textbf{8\%}.
+      - Developed front-end enhancements for the ULM Museum and Alumni websites, resulting in a \textbf{25\%} increase in user engagement and average session duration.
+      - Migrated \textbf{10,000+} legacy records using \textbf{Python}, implementing database normalization that boosted query performance by \textbf{15\%}.
+      - Optimized university web form systems through rigorous validation and UI improvements, reducing submission errors by \textbf{35\%} and streamlining data collection.
 
 projects:
-  - name: NoteMeet
-    description: AI meeting assistant integrating \textbf{Google Meet API} and third-party services using \textbf{REST APIs} and \textbf{AWS} microservices (\textbf{Lambda}, \textbf{S3}, \textbf{DynamoDB}, \textbf{EventBridge}) with event-driven architecture achieving ~95\% reliability.
-    link: https://notemeet.dineshchhantyal.com
-
-  - name: Offermart
-    description: AI powered multi agent LLM application using orchestration (\textbf{Gemini}, \textbf{LangChain}) and prompt engineering to run live event scripts with real time adaptation, and containerized with \textbf{Docker} for reproducible deployment and isolated scaling. (Nexus Technology)
-    link: https://rhyme-ai.vercel.app/
-
-  - name: Personal MCP
-    description: Developed a \textbf{Model Context Protocol (MCP) server} exposing \textbf{REST APIs} that allow external clients to integrate with local tools and data sources. Demonstrates API contract design, middleware concepts, and system-to-system communication patterns.
-    link: https://dineshchhantyal.com
+  - name: Dristi – AI Accessibility App
+    description: Co-created an AI-powered accessibility app for the blind using \textbf{Flask}, \textbf{Docker}, and computer vision APIs. Won \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (statewide, 70 teams). Pilot testing with blind users improved task completion times by \textbf{40\%}.
+    link: ""
+  - name: Athlyze – ACL Injury Prevention Platform
+    description: Built a real-time computer vision pipeline using \textbf{Google MediaPipe} to detect high-risk biomechanical markers for injury risk assessment via smartphone. Full-stack system with \textbf{React}, \textbf{Firebase}, and \textbf{JavaScript} supporting real-time feedback for athletes across 3 sport categories.
+    link: ""
 
 skills:
-  - name: Integration \& APIs
-    items: TypeScript, JavaScript, Node.js, React, REST APIs, OAuth 2.0, API Gateway, Data Transformation, Integration
+  - name: Languages
+    items: JavaScript, HTML/CSS, Python, Java, C++, TypeScript
 
-  - name: Databases \& Backend
-    items: MySQL, PostgreSQL, SQL, Data Modeling, Database Design, Microservices, Event-Driven Architecture
+  - name: Frontend
+    items: React, TypeScript, Responsive Design, UX Best Practices, Node.js
 
-  - name: Cloud \& DevOps
-    items: AWS (Lambda, S3, DynamoDB, EventBridge, EC2), Docker, Git/GitHub, GitHub Actions CI/CD, DevOps, Cloud-Native
+  - name: Backend \& Tools
+    items: FastAPI, Flask, GraphQL, MongoDB, Firebase, Docker, Git, Distributed Systems
 
-  - name: Development Practices
-    items: REST API Design, API Integration, Problem-Solving, Debugging \& Troubleshooting, Code Reviews, Agile/SCRUM
-
-  - name: Certifications
-    items: AWS Certified Solutions Architect – Associate (Nov 2025), AWS AI Practitioner (Oct 2025), Databricks Gen AI Engineer (2025)
+  - name: AI \& CS Fundamentals
+    items: Data Structures \& Algorithms, OOP, API Design, AI/ML Concepts, LLMs, GPT-4o, BLIP, MediaPipe, AgentOS
 
 leadership:
-  - name: Google Developer Student Club, President
-    date: Sep 2024 – Present
-    description: Lead a community of 200+ developers at ULM, organizing AI and cloud workshops, hackathons, and coding challenges with Google, sponsors, and campus partners.
-  - name: IEEE Shreveport Section, Webmaster
-    date: Jan 2025 – Present
-    description: Plan and promote IEEE Shreveport Section events while managing the sections website and registration systems.
+  - name: Vice President \& Founding Member, Girls Who Code
+    date: 2025 – Present
+  - name: Treasurer, NSA
+    date: 2025 – Present
+  - name: Campus Ambassador, Intern Insider
+    date: 2025 – Present
 
 awards:
-  - title: State Champion – ICPC Louisiana Regional
-    issuer: ICPC
-    date: Nov 2023
-  - title: 1st Place – AWS Project Presentation
-    issuer: AWS
-    date: Mar 2025
-  - title: 2nd Place – BEE Integration Competition
-    issuer: MAA (Louisiana-Mississippi Section)
-    date: Feb 2025
-
-more about me: https://dineshchhantyal.com/about_dinesh_chhantyal.json
+  - title: 3rd Place – Nexus Technology Cup
+    issuer: Statewide (70 teams)
+    date: 2025
+  - title: 2nd Place – ULM Hawkathon
+    issuer: ULM (30+ teams)
+    date: 2025

@@ -12,3 +12,8 @@ applications/*
 # Personal data
 mcp/about_dinesh_chhantyal.yml
 mcp/about_dinesh_chhantyal.json
+mcp/about_unika_bista.yml
+
+# Environment / secrets — NEVER commit API keys
+.env
+*.env
