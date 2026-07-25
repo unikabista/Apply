@@ -1,0 +1,169 @@
+date,company,role,ats,url,status,pay,tier,notes
+2026-05-02 19:10,Cohere,Software Engineer Intern,ashby,https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application,DRY_RUN,,,
+2026-05-02 19:10,MUBI,AI Transformation Intern,ashby,https://jobs.ashbyhq.com/MUBI/342a53eb-345f-4172-9264-e26237792c24/application,DRY_RUN,,,
+2026-05-02 19:10,Kira,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c,DRY_RUN,,,
+2026-05-02 23:04,Atomic Semi,Infrastructure Software Engineering Intern,ashby,https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e,DRY_RUN,,,
+2026-05-02 23:05,Vital Lyfe,Software Engineering Internship,ashby,https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af,DRY_RUN,,,
+2026-05-02 23:05,d-Matrix,Applied AI Engineering Intern,ashby,https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application,DRY_RUN,,,
+2026-05-02 23:53,Cohere,Software Engineer Intern,ashby,https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application,submitted,,,Ashby form submitted
+2026-05-02 23:53,MUBI,AI Transformation Intern,ashby,https://jobs.ashbyhq.com/MUBI/342a53eb-345f-4172-9264-e26237792c24/application,submitted,,,Ashby form submitted
+2026-05-02 23:54,Kira,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c,ERROR,,,"Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-05-02 23:54,Atomic Semi,Infrastructure Software Engineering Intern,ashby,https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e,ERROR,,,"Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-05-02 23:55,Vital Lyfe,Software Engineering Internship,ashby,https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af,ERROR,,,"Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-05-02 23:55,d-Matrix,Applied AI Engineering Intern,ashby,https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application,submitted,,,Ashby form submitted
+2026-05-02 23:56,Remedy Scientific,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/Remedy%20Scientific/2e74c46f-cc91-487d-858d-62664f801efc/application,ERROR,,,"Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-05-02 23:56,Sieve,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9/application,submitted,,,Ashby form submitted
+2026-05-02 23:56,Homebase,Forward Deployed Engineering Intern - AI-Native,ashby,https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2/application,submitted,,,Ashby form submitted
+2026-05-03 00:05,ether.fi,GTM Engineer Intern,ashby,https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb/application,submitted,,,Ashby form submitted
+2026-05-03 00:07,Blockhouse,Rust Developer Intern,ashby,https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application,submitted,,,Ashby form submitted
+2026-05-03 00:08,Skydio,Autonomy Engineer Intern - Deep Learning - Computational Photography,ashby,https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application,submitted,,,Ashby form submitted
+2026-05-03 00:08,Context,Intern,ashby,https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application,ERROR,,,"Locator.all: Target page, context or browser has been closed"
+2026-05-03 00:10,Kognitos,Software Engineer Intern - AI-Native,ashby,https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application,submitted,,,Ashby form submitted
+2026-05-03 00:13,Socure,Engineering Intern - AI Agents - Data & Riskos,ashby,https://jobs.ashbyhq.com/socure/e54f1700-c922-4bcc-a087-45b24717f974/application,submitted,,,Ashby form submitted
+2026-05-10 17:04,Snowflake,Software Engineer Intern - Infrastructure Automation,ashby,https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: SCHOOL NAME
+
+Missing entry for required field: DEGREE
+
+Missing entry for required field: DISCIPLINE
+
+Missing entry for required field: WILL YOU REQUIRE COMPANY SPONSORSHIP NOW OR IN THE FUTURE TO MAINTAIN OR EXTEND YOUR CURRENT WORK AUTHORIZATION STATUS? 
+
+Missing entry for required field: FOR THE LOCATION SPECIFIED IN THE JD, DO YOU REQUIRE IMMIGRATION SPONSORSHIP TO ESTABLISH, CONTINUE, OR EXTEND YOUR CURRENT WORK AUTHORIZATION STATUS, EITHER NOW OR IN THE FUTURE? (FOR EXAMPLE – THIS MAY BE J1, TN, F1, SCHENGEN VISA TYPE C OR D, STUDENT RESIDENCE PERMIT, ETC. THIS MAY BE SPONSORSHIP YOU HAVE ALREADY ARRANGED, OR SPONSORSHIP VIA SNOWFLAKE OR YOUR SCHOOL.) PLEASE INDICATE YES IF YOU HAVE OR NEED ANY IMMIGRATION SPONSORSHIP, OR IF YOU ARE UNSURE. IF YES, YOU WILL RECEIVE A FOLLOW-UP CHECKLIST WHERE YOU CAN INPUT DETAILED INFORMATION PERTAINING TO YOUR CURRENTLY HELD VISA AND/OR ADDITIONAL VISA NEEDS.
+
+Missing entry for required field: PLEASE CONFIRM THE NUMBER OF HOURS PER WEEK YOU CAN WORK AND BE PRESENT IN THE OFFICE LOCATION SPECIFIED IN THE JOB DESCRIPTION (FULL-TIME IS 40 HOURS PER WEEK)
+
+Missing entry for required field: IN OFFICE ATTENDANCE IS AN ESSENTIAL FUNCTION FOR THIS ROLE AND NECESSARY TO ENABLE EFFECTIVE TEAMWORK AND COLLABORATION. DO YOU CURRENTLY RESIDE WITHIN COMMUTING DISTANCE OR ARE YOU OPEN TO RELOCATION TO THE LOCAL SNOWFLAKE OFFICE(S) DESIGNATED IN THIS POST?
+
+Missing entry for required field: WHERE HAVE YOU MOST RECENTLY WORKED?
+
+Missing entry for required field: HAVE YOU WORKED AT SNOWFLAKE IN THE PAST IN A FULL-TIME, PART-TIME, CONTRACTOR OR INTERN CAPACITY?
+
+Missing entry for required field: FOR SNOWFLAKE TO ANTICIPATE POSSIBLE IMMIGRATION TIMELINES AND OBLIGATIONS, COULD YOU CONFIRM YOU ARE CURRENTLY AUTHORIZED TO WORK IN THE COUNTRY TO WHICH YOU ARE APPLYING?
+
+Missing entry for required field: A “U.S. PERSON” IS A CITIZEN, LEGAL PERMANENT RESIDENT, OR LEGAL TEMPORARY RESIDENT (I.E., A REFUGEE OR ASYLEE) OF THE UNITED STATES. WHICH OF THE FOLLOWING BEST DESCRIBES YOUR “U.S. PERSON” STATUS?
+
+Missing entry for required field: DUE TO SEC AUDITOR INDEPENDENCE REQUIREMENTS, PLEASE LET US KNOW WHETHER YOU HAVE PREVIOUSLY WORKED AT, OR IF CURRENTLY WORKING AT PRICEWATERHOUSECOOPERS (PWC), WHO IS OUR INDEPENDENT AUDITOR.
+
+Missing entry for required field: HAVE YOU EVER BEEN DIRECTLY EMPLOYED BY (1) ANY GOVERNMENT OR MILITARY ENTITY, STATE-OWNED ENTERPRISE, OR PUBLICLY-FUNDED INSTITUTION, OR (2) A GOVERNMENT CONTRACTOR IN A ROLE THAT RECOMMENDED SNOWFLAKE AS PART OF GOVERNMENT PROCUREMENT?
+
+Missing entry for required field: IN ANY MATERIALS YOU SUBMIT, YOU MAY REDACT OR REMOVE AGE-IDENTIFYING INFORMATION SUCH AS AGE, DATE OF BIRTH, OR DATES OF SCHOOL ATTENDANCE OR GRADUATION. YOU WILL NOT BE PENALIZED FOR REDACTING OR REMOVING THIS INFORMATION.
+
+Missing entry for required field: SNOWFLAKE WILL PROCESS YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE SNOWFLAKE CANDIDATE PRIVACY NOTICE.; Missing entry for required field: SCHOOL NAME
+
+Missing entry for required field: DEGREE
+
+Missing entry for required field: DISCIPLINE
+
+Missing entry for required field: WILL YOU REQUIRE COMPANY SPONSORSHIP NOW OR IN THE FUTURE TO MAINTAIN OR EXTEND YOUR CURRENT WORK AUTHORIZATION STATUS? 
+
+Missing entry for required field: FOR THE LOCATION SPECIFIED IN THE JD, DO YOU REQUIRE IMMIGRATION SPONSORSHIP TO ESTABLISH, CONTINUE, OR EXTEND YOUR CURRENT WORK AUTHORIZATION STATUS, EITHER NOW OR IN THE FUTURE? (FOR EXAMPLE – THIS MAY BE J1, TN, F1, SCHENGEN VISA TYPE C OR D, STUDENT RESIDENCE PERMIT, ETC. THIS MAY BE SPONSORSHIP YOU HAVE ALREADY ARRANGED, OR SPONSORSHIP VIA SNOWFLAKE OR YOUR SCHOOL.) PLEASE INDICATE YES IF YOU HAVE OR NEED ANY IMMIGRATION SPONSORSHIP, OR IF YOU ARE UNSURE. IF YES, YOU WILL RECEIVE A FOLLOW-UP CHECKLIST WHERE YOU CAN INPUT DETAILED INFORMATION PERTAINING TO YOUR CURRENTLY HELD VISA AND/OR ADDITIONAL VISA NEEDS.
+
+Missing entry for required field: PLEASE CONFIRM THE NUMBER OF HOURS PER WEEK YOU CAN WORK AND BE PRESENT IN THE OFFICE LOCATION SPECIFIED IN THE JOB DESCRIPTION (FULL-TIME IS 40 HOURS PER WEEK)
+
+Missing entry for required field: IN OFFICE ATTENDANCE IS AN ESSENTIAL FUNCTION FOR THIS ROLE AND NECESSARY TO ENABLE EFFECTIVE TEAMWORK AND COLLABORATION. DO YOU CURRENTLY RESIDE WITHIN COMMUTING DISTANCE OR ARE YOU OPEN TO RELOCATION TO THE LOCAL SNOWFLAKE OFFICE(S) DESIGNATED IN THIS POST?
+
+Missing entry for required field: WHERE HAVE YOU MOST RECENTLY WORKED?
+
+Missing entry for required field: HAVE YOU WORKED AT SNOWFLAKE IN THE PAST IN A FULL-TIME, PART-TIME, CONTRACTOR OR INTERN CAPACITY?
+
+Missing entry for required field: FOR SNOWFLAKE TO ANTICIPATE POSSIBLE IMMIGRATION TIMELINES AND OBLIGATIONS, COULD YOU CONFIRM YOU ARE CURRENTLY AUTHORIZED TO WORK IN THE COUNTRY TO WHICH YOU ARE APPLYING?
+
+Missing entry for required field: A “U.S. PERSON” IS A CITIZEN, LEGAL PERMANENT RESIDENT, OR LEGAL TEMPORARY RESIDENT (I.E., A REFUGEE OR ASYLEE) OF THE UNITED STATES. WHICH OF THE FOLLOWING BEST DESCRIBES YOUR “U.S. PERSON” STATUS?
+
+Missing entry for required field: DUE TO SEC AUDITOR INDEPENDENCE REQUIREMENTS, PLEASE LET US KNOW WHETHER YOU HAVE PREVIOUSLY WORKED AT, OR IF CURRENTLY WORKING AT PRICEWATERHOUSECOOPERS (PWC), WHO IS OUR INDEPENDENT AUDITOR.
+
+Missing entry for required field: HAVE YOU EVER BEEN DIRECTLY EMPLOYED BY (1) ANY GOVERNMENT OR MILITARY ENTITY, STATE-OWNED ENTERPRISE, OR PUBLICLY-FUNDED INSTITUTION, OR (2) A GOVERNMENT CONTRACTOR IN A ROLE THAT RECOMMENDED SNOWFLAKE AS PART OF GOVERNMENT PROCUREMENT?
+
+Missing entry for required field: IN ANY MATERIALS YOU SUBMIT, YOU MAY REDACT OR REMOVE AGE-IDENTIFYING INFORMATION SUCH AS AGE, DATE OF BIRTH, OR DATES OF SCHOOL ATTENDANCE OR GRADUATION. YOU WILL NOT BE PENALIZED FOR REDACTING OR REMOVING THIS INFORMATION.
+
+Missing entry for required field: SNOWFLAKE WILL PROCESS YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE SNOWFLAKE CANDIDATE PRIVACY NOTICE.; Missing entry for required field: SCHOOL NAME"
+2026-05-10 17:05,Matterworks,Product Management Intern,ashby,https://jobs.ashbyhq.com/matterworks/014652db-c9fc-4424-bea3-ae5ff35d540c/application,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: Which work style(s) are you open to?
+
+Missing entry for required field: What is your preferred start date?
+
+Missing entry for required field: Are you currently legally authorized to work in the United States?
+
+Missing entry for required field: Will you, now or in the future, require the support of Matterworks to maintain that authorization?; Missing entry for required field: Which work style(s) are you open to?
+
+Missing entry for required field: What is your preferred start date?
+
+Missing entry for required field: Are you currently legally authorized to work in the United States?
+
+Missing entry for required field: Will you, now or in the future, require the support of Matterworks to maintain that authorization?; Missing entry for required field: Which work style(s) are you open to?"
+2026-05-10 17:06,Triumph,Software Engineer Intern,ashby,https://jobs.ashbyhq.com/triumph-arcade/89d82fc2-c2dd-439d-bbc2-e3dcb298fffc,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: What  year are you in school? 
+
+Missing entry for required field: What  internship program are you interested in?
+
+Missing entry for required field: What is the most impressive thing you've done?
+
+Missing entry for required field: Are you willing & excited to work 5 days a week in person in SF?; Missing entry for required field: What  year are you in school? 
+
+Missing entry for required field: What  internship program are you interested in?
+
+Missing entry for required field: What is the most impressive thing you've done?
+
+Missing entry for required field: Are you willing & excited to work 5 days a week in person in SF?; Missing entry for required field: What  year are you in school? "
+2026-05-10 17:06,H3X Technologies,Test Engineer Intern,ashby,https://jobs.ashbyhq.com/h3x-technologies/b9728e9a-5158-4537-a27f-07462bd9c7e3/application,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: Are you legally authorized to work in the Unites States for H3X?
+
+Missing entry for required field: Will you now or in the future require sponsorship for employment with H3X?
+
+Missing entry for required field: Why are you interested in working for H3X Technologies?
+
+Missing entry for required field: What are your salary expectations?
+
+Missing entry for required field: Are you able to work in person at our Louisville, CO HQ?
+
+Missing entry for required field: Tell us about your experience with hands on mechanical assembly & testing.
+
+Missing entry for required field: Are you able to work Full Time during the Fall 2026 Semester (Aug /Sep - Dec/Jan); Missing entry for required field: Are you legally authorized to work in the Unites States for H3X?
+
+Missing entry for required field: Will you now or in the future require sponsorship for employment with H3X?
+
+Missing entry for required field: Why are you interested in working for H3X Technologies?
+
+Missing entry for required field: What are your salary expectations?
+
+Missing entry for required field: Are you able to work in person at our Louisville, CO HQ?
+
+Missing entry for required field: Tell us about your experience with hands on mechanical assembly & testing.
+
+Missing entry for required field: Are you able to work Full Time during the Fall 2026 Semester (Aug /Sep - Dec/Jan); Missing entry for required field: Are you legally authorized to work in the Unites States for H3X?"
+2026-05-10 17:07,Blackbird Labs,Engineer Intern,ashby,https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38/application,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: Why are you interested in Blackbird Labs?; Missing entry for required field: Why are you interested in Blackbird Labs?; Missing entry for required field: Why are you interested in Blackbird Labs?"
+2026-05-10 17:08,Compa,Software Engineer Intern,ashby,https://jobs.ashbyhq.com/compa/4fd1ad65-040c-4740-aa05-c8170b9385ee/application,BLOCKED,,,"Validation errors: Your form needs corrections
+
+Missing entry for required field: Phone Number
+
+Missing entry for required field: In office/hybrid/remote preference
+
+Missing entry for required field: What Excites You About This Role?
+
+Missing entry for required field: Do you now, or will you at any point in the future, require visa sponsorship to work in the United States?; Missing entry for required field: Phone Number
+
+Missing entry for required field: In office/hybrid/remote preference
+
+Missing entry for required field: What Excites You About This Role?
+
+Missing entry for required field: Do you now, or will you at any point in the future, require visa sponsorship to work in the United States?; Missing entry for required field: Phone Number"
+2026-05-10 17:08,Wealthsimple,Data Science Intern,ashby,https://jobs.ashbyhq.com/wealthsimple/b4d1fb2a-89dd-4a4e-9908-d106de8591a2/application,BLOCKED,,,Could not find or click Submit button
+2026-05-10 17:08,Relay Financial,Partnerships Intern,ashby,https://jobs.ashbyhq.com/relayfi/a48c120d-20d9-4db0-8384-b281fd85b742/application,ERROR,,,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://jobs.ashbyhq.com/relayfi/a48c120d-20d9-4db0-8384-b281fd85b742/application"", waiting until ""networkidle""
+"
+2026-05-10 17:08,Kira,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c,ERROR,,,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c/application"", waiting until ""networkidle""
+"
+2026-05-10 17:09,Kira,Software Engineering Intern,ashby,https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8,ERROR,,,"Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to ""https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8/application"", waiting until ""networkidle""
+"

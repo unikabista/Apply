@@ -1,108 +1,91 @@
 # AI Processing Instructions:
 # - For LaTeX output, use '%' directly; it does not need to be escaped (e.g., as \%).
-# - In Skill name, & needs escapled (e.g., as \&)
+# - In Skill name, & needs escaped (e.g., as \&)
 # - The 'summary' should be concise, with a maximum of two lines.
 # - Use tool calling to gather specific information when necessary.
 # - DONT change factual information e.g role, company, location
 # - Do not invent or assume new technologies; prioritize leveraging existing tools and libraries from the document.
 # - DONT create a new file
+# VARIANT: Leadership / community / impact focus.
 
 personal:
-    name: Dinesh Chhantyal
-    location: Monroe, LA (Open to relocation)
-    phone: +1-318-750-6383
-    email: myagdichhantyal@gmail.com
-    website: https://www.dineshchhantyal.com
-    linkedin: https://linkedin.com/in/dineshchhantyal
+  name: Unika Bista
+  location: San Francisco, CA
+  phone: +1-318-350-8760
+  email: unika.bista0@gmail.com
+  linkedin: https://www.linkedin.com/in/unika-bista-50139033a/
+  website: https://www.linkedin.com/in/unika-bista-50139033a/
 
-summary: |
-    \textbf{ICPC State Champion} and \textbf{creative award-winning engineer} architecting the next generation of \textbf{AI-driven applications}. Deep expertise in building \textbf{robust, high-performance distributed systems} and leading \textbf{collaborative developer communities}.
+summary: >
+  Engineer and community leader, \textbf{President of Girls Who Code}, who ships production AI at a Fortune 500 company and builds award-winning teams and projects.
+  Combines full-stack delivery with a track record of mobilizing people around technology.
 
 education:
-    - name: University of Louisiana at Monroe
-      location: Monroe, LA
-      degree: Bachelor of Science in Computer Science, Minor in Mathematics
-      GPA: 4.0 / 4.0
-      date: Aug 2022 -- May 2026 (Senior)
-      courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, Computer Networks
+  - name: University of Louisiana at Monroe
+    location: Monroe, LA
+    degree: Bachelor of Science in Computer Science, Minor in Business
+    GPA: ""
+    date: Aug 2023 – May 2027 (Junior)
+    courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, AI/ML Concepts
 
 experience:
-    - title: Software Engineering Intern (ML)
-      company: Simons Foundation (SCC, Flatiron Institute)
-      location: New York, NY
-      date: July 2025 -- Aug 2025
-      achievements:
-          - Built \textbf{PyQt-based} 3D exploration pipeline for \textbf{1.2TB} of cryo-EM imagery in close collaboration with biologists, data scientists, and ground truth labelers, using \textbf{sliding window techniques} and \textbf{Ceph/S3} storage to efficiently generate high-quality training datasets for \textbf{computer vision models}.
-          - Accelerated cell nucleus motion tracking pipeline by \textbf{22x} (45 min → 2 min) for embryonic development movies using a \textbf{SLURM-managed 10-GPU cluster} (8xV100, 2xA100) through optimized batching, mixed-precision inference, and parallel frame processing.
-          - Improved cellular classification to \textbf{0.91 F1-score} by designing a custom \textbf{spatio-temporal 3D-CNN} in \textbf{PyTorch} with domain-specific augmentation strategies and iterative label refinement for accurate tracking across \textbf{600+ timepoints} and \textbf{25K+ cells}.
-          - Created \textbf{Chart-Gizmos}, an open-source visualization library integrating \textbf{Python}, \textbf{Chart.js}, and \textbf{H5Gizmos} for interactive data exploration.
+  - title: AI Intern
+    company: Xerox
+    location: Remote
+    date: Jun 2026 – Present
+    achievements:
+      - Built and deployed an \textbf{AI agent} integrated across \textbf{Microsoft 365} to automate internal reporting and document processing for senior leadership at a \textbf{Fortune 500} company.
+      - Engineered a full-stack volunteer management system using \textbf{Power Apps}, \textbf{Power Automate}, and \textbf{Dataverse}, replacing a \textbf{\$95K/year} platform and serving \textbf{40,000+} employees globally.
 
-    - title: Lead & President
-      company: Google Developer Group – University of Louisiana Monroe
-      location: Monroe, LA
-      date: Aug 2024 – Aug 2025
-      achievements:
-          - Revitalized the campus developer community, organizing \textbf{16+ events} (including \textbf{4 major exhibitions and hackathons}) to drive a \textbf{167% growth} in active membership (from 68 to 182 members) in one year.
-          - Founded and directed the university's inaugural \textbf{TechXpo}, connecting \textbf{200+ students} with \textbf{15+ local businesses}; promotional efforts earned the university's \textbf{Best Marketing Award} and secured \textbf{\$11,000+} in funding to showcase \textbf{25+ student projects}.
-          - 'Innovated chapter engagement by launching two flagship programs: the \textbf{`` Weekly CodeClash ''''} to drive consistent participation, and the \textbf{`` IT Code Challenge ''''}, a partnership with university IT that tasked students with solving real-world campus technical problems.'
+  - title: Technology & UX Insights Intern
+    company: Design Arts Seminars, Inc.
+    location: Remote
+    date: Jan 2026 – May 2026
+    achievements:
+      - Built \textbf{REST API} integrations using \textbf{Python} and \textbf{JavaScript} with object-oriented design principles, delivering scalable automation workflows and reducing development cycles by \textbf{25\%}.
+      - Evaluated and critically reviewed AI-generated code using \textbf{Claude Code}, \textbf{GitHub Copilot}, and \textbf{Cursor} daily; documented findings to improve engineering team output quality.
 
-    - title: Software Engineer
-      company: University of Louisiana - Monroe
-      location: Monroe, LA
-      date: Jan 2023 -- Present
-      achievements:
-          - Integrated \textbf{Microsoft Teams API} with \textbf{Drupal CMS} via \textbf{OAuth 2.0} for real-time messaging and calendar synchronization, streamlining workflows and reducing administrative overhead from \textbf{4 hours to 30 minutes weekly}.
-          - Engineered a \textbf{Node.js/TypeScript/MySQL/ETL pipeline} to migrate \textbf{10,000+ legacy records} into \textbf{Drupal 10}, optimizing database schemas to accelerate query performance by \textbf{15%} and reduce storage costs by \textbf{10%} for improved system efficiency.
-          - Collaboratively automated end-to-end testing for \textbf{50+ webpages} using \textbf{Selenium} and \textbf{Cypress}, integrating into a \textbf{CI/CD pipeline} with \textbf{GitLab} to enhance deployment reliability and boost pre-deployment issue detection by \textbf{75%}.
+  - title: Software Engineer Intern
+    company: ULM Information Technology
+    location: Monroe, LA
+    date: May 2024 – Present
+    achievements:
+      - Developed full-stack features for university web platforms using \textbf{Java}, \textbf{JavaScript}, and \textbf{HTML/CSS}, applying algorithms and data structures to reduce submission errors by \textbf{35\%}.
+      - Built \textbf{Python} and \textbf{SQL} data pipelines to process and migrate \textbf{10,000+} legacy records, improving query performance by \textbf{15\%}.
 
-    - title: Software Developer
-      company: Clamphook - EdTech
-      location: Lalitpur, NP
-      date: Oct 2022 -- May 2023
-      achievements:
-          - Spearheaded a \textbf{Flask} and \textbf{React}-based Computer-Based Testing (CBT) platform with \textbf{Redux Trunk} state management, \textbf{Redis} caching, and \textbf{NGINX} load balancing, implementing optimized API endpoints to support \textbf{5,000+ concurrent users} and \textbf{5x enrollment growth}.
-          - Architected a \textbf{Docker/Kubernetes}-based microservices infrastructure with \textbf{Helm} charts and automated \textbf{CI/CD} pipelines using \textbf{GitLab}, achieving \textbf{99.9% uptime} for production applications with \textbf{5,000+ downloads} on App Store.
-          - Developed real-time analytics dashboard with \textbf{TypeScript}, \textbf{MongoDB}, and \textbf{Chart.js}, featuring a gamified Duolingo-style progress tracking interface that drove an \textbf{8% increase} in user engagement and improved student retention.
-          - Conducted \textbf{code reviews}, documented \textbf{API specifications}, and troubleshot production issues while collaborating with cross-functional teams (design, product, QA) in a startup environment.
-
-    # - title: Software Developer Intern
-    #   company: Padhao Academy
-    #   location: Remote
-    #   date: Oct 2021 -- Dec 2021
-    #   achievements:
-    #       - Implemented a secure authentication system with \textbf{JWT tokens} and \textbf{RBAC architecture} for a \textbf{Next.js} educational platform, ensuring \textbf{GDPR compliance} for 5,000+ student accounts and supporting multiple permission levels for students, instructors, and administrators.
-    #       - Optimized frontend performance using \textbf{Next.js}, \textbf{TypeScript}, and \textbf{Tailwind CSS} with strategic component lazy loading and state management, resulting in a \textbf{35% reduction} in page load times and improved user experience metrics.
-    #       - Enhanced platform discoverability through implementation of \textbf{Next.js SSR}, dynamic routing, \textbf{structured data markup} (Open Graph + JSON-LD), and intelligent resource prefetching, leading to measurable improvements in organic search rankings and user acquisition.
+leadership:
+  - name: President, Girls Who Code
+    date: 2025 – Present
+  - name: Treasurer, NSA
+    date: 2025 – Present
+  - name: Campus Ambassador, Intern Insider
+    date: 2025 – Present
 
 projects:
-    - name: NoteMeet
-      description: |
-          Highly distributed AI meeting assistant leveraging a \textbf{Next.js},and a \textbf{Terraform-managed AWS stack} (\textbf{Lambda, S3, DynamoDB, Transcribe}) to enable automatic recording, transcription, and \textbf{RAG-powered summaries}. The system's distributed architecture reduced manual note-taking effort by \textbf{80%} and ensured scalability and reliability. (\textbf{Tech Expo Winner})
-      link: https://notemeet.dineshchhantyal.com
-
-    - name: RhymeAI
-      description: AI-powered event management platform featuring an intelligent virtual emcee that uses \textbf{multi-agent orchestration} (\textbf{Gemini}, \textbf{LangChain}, ElevenLabs) to plan and adapt to real-time situations. (Selected for \textbf{Nexus Technology Cup})
-      link: https://rhyme-ai.vercel.app/
-
-    - name: OfferMart
-      description: Full stack sustainable reselling marketplace (\textbf{Next.js}, \textbf{Node.js}, \textbf{MongoDB}) with \textbf{RBAC auth}, real-time verification, \textbf{dynamic pricing} logic, and \textbf{Stripe} integration; scales to \textbf{1,000+ concurrent transactions} with strong data integrity guarantees.
-      link: https://offermart.vercel.app/
-
-    - name: CodeStroke Pro
-      description: |
-          Collaborated with pharmacists to build a \textbf{FastAPI}-based clinical decision support system for CodeStroke, featuring form-driven workflows, a responsive \textbf{React} UI, and audit trails that reduced decision latency by \textbf{40%} and improved patient outcomes.
-      link: https://codestrokepro.org
+  - name: Dristi – AI Accessibility App
+    description: Co-built a voice-controlled \textbf{AI application} achieving \textbf{99\%} uptime, validated with real users at a blind care center and reducing task completion time by \textbf{40\%}. Won \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (70 teams statewide).
+    link: ""
+  - name: SATHI – Agentic Career Assistant
+    description: Architected a full-stack agentic career assistant with a \textbf{React} frontend and \textbf{Python}-backed services, integrating \textbf{prompt engineering} and \textbf{RAG} pipelines with an \textbf{Adzuna}/\textbf{Himalayas} job aggregation engine.
+    link: ""
 
 skills:
-    - name: Programming \& Development
-      items: Python, TypeScript, Java, C++, SQL, JavaScript, React.js, Next.js, FastAPI, Node.js, REST APIs, GraphQL
-    - name: Data \& Distributed Systems
-      items: ETL Pipelines, Data Modeling, PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Kafka
-    - name: Machine Learning \& AI
-      items: PyTorch, PySpark, TensorFlow, Scikit-learn, RAG, MCP, LLMs, OpenAI API, Computer Vision, NLP
-    - name: Cloud \& DevOps
-      items: AWS (Lambda, S3, DynamoDB), GCP, Docker, Kubernetes, Terraform, CI/CD, Helm, Serverless Architecture
-    - name: Testing \& Quality Assurance
-      items: Selenium, Cypress, Unit/Integration Testing, Regression Suites, Test Automation
-    - name: Tools \& Collaboration
-      items: Git, GitLab, JIRA, Confluence, Agile/Scrum, Code Review, Documentation, Open Source Contributions
+  - name: Languages
+    items: Python, JavaScript, TypeScript, Java, SQL, C++, HTML/CSS
+
+  - name: Frameworks \& Libraries
+    items: React, Next.js, Flask, Firebase, PostgreSQL, REST API Design
+
+  - name: AI \& Dev Tools
+    items: Claude Code, GitHub Copilot, Cursor, Gemini, Prompt Engineering, Agentic Workflows
+
+  - name: Developer Tools
+    items: Git, AWS, CI/CD, Agile, Automated Testing
+
+awards:
+  - title: 2nd Place – ULM Hawkathon
+    issuer: ULM (30+ teams)
+    date: 2025
+  - title: 3rd Place – Nexus Technology Cup
+    issuer: Statewide (70 teams)
+    date: 2025

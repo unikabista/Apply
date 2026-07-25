@@ -226,7 +226,7 @@ Sincerely,
 
             if not pdflatex_cmd:
                 raise Exception(
-                    "pdflatex not found. Please install LaTeX (MacTeX) or add it to PATH"
+                    "pdflatex not found. Please install MiKTeX (Windows) or add pdflatex to PATH."
                 )
 
             for _ in range(2):
@@ -237,13 +237,14 @@ Sincerely,
                         "-output-directory=" + output_dir,
                         tex_file,
                     ],
-                    check=True,
                     capture_output=True,
                     text=True,
                 )
-                if result.returncode != 0:
-                    print(result.stdout)
-                    print(result.stderr)
+                pdf_check = os.path.splitext(tex_file)[0] + ".pdf"
+                if result.returncode != 0 and not os.path.exists(pdf_check):
+                    raise subprocess.CalledProcessError(
+                        result.returncode, result.args, result.stdout, result.stderr
+                    )
             base_name = os.path.splitext(tex_file)[0]
             for ext in [".aux", ".log", ".out"]:
                 aux_file = base_name + ext

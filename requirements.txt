@@ -3,3 +3,7 @@ python-frontmatter>=1.0.0
 PyQt6==6.8.0
 PyQt6-Qt6==6.8.1
 PyQt6-sip==13.10.0
+playwright>=1.44.0
+anthropic>=0.30.0
+python-dotenv>=1.0.0
+requests>=2.31.0

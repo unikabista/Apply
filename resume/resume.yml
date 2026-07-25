@@ -16,8 +16,8 @@ personal:
   website: https://www.linkedin.com/in/unika-bista-50139033a/
 
 summary: >
-  AI-focused Computer Science junior building intelligent systems, automation pipelines, and full-stack applications.
-  Award-winning hackathon builder with internship experience delivering real-world impact across accessibility, UX, and data engineering.
+  Full-stack software engineer and AI builder with production experience at a \textbf{Fortune 500} company, agentic AI applications, and end-to-end web platforms.
+  Fast across the stack, from \textbf{React} and \textbf{REST APIs} to \textbf{Python} pipelines and \textbf{LLM} integrations, with measurable impact and award-winning work.
 
 education:
   - name: University of Louisiana at Monroe
@@ -28,94 +28,73 @@ education:
     courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, AI/ML Concepts
 
 experience:
-  - title: Technology & UX Insights Intern
-    company: Design Arts Seminars, Inc
-    location: Remote
-    date: Jan 2026 – Present
-    achievements:
-      - Evaluated \textbf{10+} AI automation tools including Claude, ChatGPT, and Gemini, delivering a strategic roadmap that reduced development cycles by \textbf{25\%}.
-      - Designed and implemented automated workflows via API integrations in \textbf{HubSpot}, reducing manual data entry and improving operational efficiency across marketing and development teams.
-      - Created user journeys and conducted user research to identify friction points, driving product decisions that improved accessibility for \textbf{1,000+} students and instructors.
-      - Designed wireframes and interactive prototypes in \textbf{Figma}, translating user research into clear product specifications for engineering and design teams.
-      - Produced performance dashboards and reports using \textbf{Excel} and \textbf{Power BI}, enabling data-driven decisions for internal stakeholders.
-      - Maintained comprehensive knowledge base and research documentation using \textbf{Notion}, ensuring consistent adoption of AI tools across cross-functional teams.
-      - Applied prompt engineering techniques to optimize AI model outputs and document performance findings for internal stakeholders.
-
   - title: AI Intern
+    company: Xerox
+    location: Remote
+    date: Jun 2026 – Present
+    achievements:
+      - Built and deployed an \textbf{AI agent} integrated across \textbf{Microsoft 365} to automate internal reporting and document processing for senior leadership at a \textbf{Fortune 500} company.
+      - Engineered a full-stack volunteer management system using \textbf{Power Apps}, \textbf{Power Automate}, and \textbf{Dataverse}, replacing a \textbf{\$95K/year} platform and serving \textbf{40,000+} employees globally.
+
+  - title: Technology & UX Insights Intern
+    company: Design Arts Seminars, Inc.
+    location: Remote
+    date: Jan 2026 – May 2026
+    achievements:
+      - Built \textbf{REST API} integrations using \textbf{Python} and \textbf{JavaScript} with object-oriented design, delivering scalable automation workflows and reducing development cycles by \textbf{25\%}.
+      - Evaluated and reviewed AI-generated code daily using \textbf{Claude Code}, \textbf{GitHub Copilot}, and \textbf{Cursor}; documented findings to improve engineering output quality.
+
+  - title: Software Engineer Intern
     company: ULM Information Technology
     location: Monroe, LA
     date: May 2024 – Present
     achievements:
-      - Developed front-end enhancements for the ULM Museum and Alumni websites using \textbf{JavaScript} and \textbf{HTML/CSS}, resulting in a \textbf{25\%} increase in user engagement and average session duration.
-      - Optimized university web form systems through rigorous validation and UI improvements, reducing submission errors by \textbf{35\%} and streamlining data collection.
-      - Applied \textbf{Python} and \textbf{SQL} to clean and migrate \textbf{10,000+} legacy records into a normalized \textbf{PostgreSQL} database, improving query performance by \textbf{15\%}.
-      - Developed and maintained \textbf{Java}-based backend modules for university web systems, collaborating with the engineering team using \textbf{Agile} and \textbf{Scrum} methodologies.
-      - Containerized backend services using \textbf{Docker} and managed deployments via \textbf{CI/CD} pipelines, ensuring consistent and reliable delivery of data-driven web applications.
-      - Deployed and managed application services on \textbf{AWS}, configuring cloud infrastructure to support scalable, production-ready web systems.
+      - Developed full-stack features for university web platforms using \textbf{Java}, \textbf{JavaScript}, and \textbf{HTML/CSS}, applying algorithms and data structures to reduce submission errors by \textbf{35\%}.
+      - Built \textbf{Python} and \textbf{SQL} data pipelines to process and migrate \textbf{10,000+} legacy records, improving query performance by \textbf{15\%}.
 
 projects:
-  - name: SATHI – AI-Powered Career Assistant
+  - name: Dristi
     link: ""
     bullets:
-      - Developed a full-stack \textbf{Next.js} application using \textbf{Gemini 1.5 Flash} to automate resume tailoring and skill extraction, delivering instant job-specific document customization for users.
-      - Orchestrated real-time data from multiple external APIs to build a custom job-matching engine generating personalized recommendations based on a calculated \textbf{Match \%} score.
+      - Co-built a voice-controlled \textbf{AI application} achieving \textbf{99\%} uptime with low-latency real-time inference; validated with real users at a blind care center, reducing task completion time by \textbf{40\%}.
+      - Won \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (70 teams statewide).
 
-  - name: Dristi – AI-Powered Accessibility Application for the Blind
+  - name: SATHI
     link: ""
     bullets:
-      - Co-created a voice-controlled visual assistant using \textbf{Python (Flask)} and \textbf{Qwen2-VL} to provide real-time scene descriptions and OCR for visually impaired users.
-      - Integrated \textbf{Whisper AI} for hands-free interaction and containerized the backend with \textbf{Docker}, achieving \textbf{99\%} uptime and low-latency real-time AI inference.
-      - Conducted on-site usability testing at a local blind care center with real visually impaired users, incorporating their feedback to improve task completion times by \textbf{40\%}.
-      - Secured \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (statewide, 70 teams) for excellence in technical execution and social impact.
+      - Architected a full-stack \textbf{agentic} career assistant with a \textbf{React} frontend and \textbf{Python}-backed services, integrating \textbf{prompt engineering} and \textbf{RAG} pipelines for personalized recommendations.
+      - Built a multi-source job aggregation engine using \textbf{Adzuna} and \textbf{Himalayas} APIs with custom match-score logic.
 
-  - name: Athlyze – ACL Injury Prevention Platform
+  - name: Athlyze
     link: ""
     bullets:
-      - Built a full-stack sports application using \textbf{React}, \textbf{TypeScript}, and \textbf{Firebase} with automated test coverage and \textbf{CI/CD} pipelines to deliver real-time injury risk assessments for athletes and coaches.
-      - Engineered a real-time computer vision pipeline using \textbf{Google MediaPipe} to detect high-risk biomechanical patterns from smartphone video, enabling automated injury risk evaluation.
+      - Built a full-stack sports analytics web application with \textbf{React} frontend and \textbf{Firebase} backend, delivering intuitive data visualizations and a seamless user experience across mobile and web.
 
 skills:
   - name: Languages
-    items: Python, SQL, JavaScript, TypeScript, Java, C++, HTML/CSS, Kotlin
+    items: Python, JavaScript, TypeScript, Java, SQL, C++, HTML/CSS
 
-  - name: AI \& Automation
-    items: Claude, ChatGPT, Gemini, GitHub Copilot, Glean, Prompt Engineering, Workflow Automation, LLM Evaluation, Qwen2-VL, Whisper AI, Gemini 1.5 Flash, OpenAI, Machine Learning, NLP, TensorFlow, PyTorch, NLTK, spaCy, Responsible AI
+  - name: Frameworks \& Libraries
+    items: React, Next.js, Flask, Firebase, PostgreSQL, REST API Design
 
-  - name: Web \& Framework
-    items: Next.js, React, Node.js, Flask, FastAPI, Spring Boot, Flutter, Firebase, RESTful API Design, HTML/CSS
+  - name: AI \& Dev Tools
+    items: Claude Code, GitHub Copilot, Cursor, Gemini, Prompt Engineering, Agentic Workflows
 
-  - name: Data \& Engineering
-    items: ETL Pipelines, PostgreSQL, Snowflake, Airflow, Power BI, Tableau, Excel, Google Sheets, Jupyter Notebooks, Streamlit, Database Management, Data Analysis, Microsoft Office Suite
-
-  - name: Engineering \& DevOps
-    items: Git, Docker, Kubernetes, CI/CD, Linux, CLI, AWS, Distributed Systems, Automated Testing, Agile, Scrum, Object-Oriented Design, RESTful API Design
-
-  - name: Design \& Product
-    items: Figma, Notion, User Research, User Journeys, Wireframing, Prototyping, UX Design, Product Lifecycle Management
-
-  - name: CS Fundamentals
-    items: Data Structures \& Algorithms, Object-Oriented Design, Software Architecture, Design Patterns, Systems Architecture
-
-  - name: Documentation \& Training
-    items: Training Material Development, Documentation Management, Knowledge Base Management, Technical Writing
+  - name: Developer Tools
+    items: "Git, AWS, CI/CD, Agile, Automated Testing | Certs: AWS AI Practitioner, AWS Cloud Practitioner, CodePath AI Engineer"
 
 leadership:
   - name: President, Girls Who Code
     date: 2025 – Present
   - name: Treasurer, NSA
-    date: 2025
+    date: "2025"
   - name: Campus Ambassador, Intern Insider
     date: 2025 – Present
 
 awards:
-  - title: 3rd Place – Nexus Technology Cup
-    issuer: Statewide (70 teams)
-    date: 2025
   - title: 2nd Place – ULM Hawkathon
     issuer: ULM (30+ teams)
     date: 2025
-
-certifications:
-  - name: AWS AI Practitioner
-  - name: AWS Cloud Practitioner
-  - name: Introduction to Cybersecurity
+  - title: 3rd Place – Nexus Technology Cup
+    issuer: Statewide (70 teams)
+    date: 2025

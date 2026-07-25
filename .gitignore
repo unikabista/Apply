@@ -17,3 +17,12 @@ mcp/about_unika_bista.yml
 # Environment / secrets — NEVER commit API keys
 .env
 *.env
+
+# Browser login sessions — contain auth tokens/cookies, NEVER commit
+sessions/
+.playwright-mcp/
+
+# Local editor / OS junk & debug artifacts
+desktop.ini
+*.desktop.ini
+ashby_*.png

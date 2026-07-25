@@ -1,23 +1,24 @@
 # AI Processing Instructions:
 # - For LaTeX output, use '%' directly; it does not need to be escaped (e.g., as \%).
-# - In Skill name, & needs escapled (e.g., as \&)
+# - In Skill name, & needs escaped (e.g., as \&)
 # - The 'summary' should be concise, with a maximum of two lines.
 # - Use tool calling to gather specific information when necessary.
 # - DONT change factual information e.g role, company, location
 # - Do not invent or assume new technologies; prioritize leveraging existing tools and libraries from the document.
 # - DONT create a new file
+# VARIANT: Software Engineering focus.
 
 personal:
   name: Unika Bista
-  location: Monroe, LA
+  location: San Francisco, CA
   phone: +1-318-350-8760
   email: unika.bista0@gmail.com
   linkedin: https://www.linkedin.com/in/unika-bista-50139033a/
   website: https://www.linkedin.com/in/unika-bista-50139033a/
 
 summary: >
-  AI-focused Computer Science junior building intelligent systems, automation pipelines, and computer vision applications.
-  Award-winning hackathon builder (Dristi) with internship experience delivering real-world impact across accessibility, UX, and data engineering.
+  Full-stack software engineer with production experience at a Fortune 500 company, shipping web platforms and automation systems end-to-end.
+  Fast across the stack, from \textbf{React} frontends and \textbf{REST APIs} to \textbf{Python} and \textbf{SQL} data pipelines, with measurable impact and award-winning project work.
 
 education:
   - name: University of Louisiana at Monroe
@@ -28,48 +29,56 @@ education:
     courses: Data Structures, Algorithms, Object-Oriented Programming, Database Management, Operating Systems, AI/ML Concepts
 
 experience:
-  - title: Technology & UX Insights Intern
-    company: Design Arts Seminars, Inc
+  - title: AI Intern
+    company: Xerox
     location: Remote
-    date: Jan 2026 – Present
+    date: Jun 2026 – Present
     achievements:
-      - Evaluated \textbf{10+} emerging AI automation frameworks, delivering a strategic roadmap to integrate machine learning tools that boosted workflow productivity by \textbf{25\%}.
-      - Mapped technical architecture to identify \textbf{5+} critical friction points, architecting \textbf{Zapier} automation workflows that reduced manual data entry by \textbf{20\%}.
-      - Collaborated with designers and educators to optimize UX workflows, improving accessibility and usability for \textbf{1K+} students and instructors.
-      - Piloted intelligent lead-nurturing tools within the \textbf{HubSpot} ecosystem to personalize customer interactions and scale digital marketing outreach by \textbf{20\%}.
+      - Built and deployed an \textbf{AI agent} integrated across \textbf{Microsoft 365} to automate internal reporting and document processing for senior leadership at a \textbf{Fortune 500} company.
+      - Engineered a full-stack volunteer management system using \textbf{Power Apps}, \textbf{Power Automate}, and \textbf{Dataverse}, replacing a \textbf{\$95K/year} platform and serving \textbf{40,000+} employees globally.
 
-  - title: Student Worker
+  - title: Technology & UX Insights Intern
+    company: Design Arts Seminars, Inc.
+    location: Remote
+    date: Jan 2026 – May 2026
+    achievements:
+      - Built \textbf{REST API} integrations using \textbf{Python} and \textbf{JavaScript} with object-oriented design principles, delivering scalable automation workflows and reducing development cycles by \textbf{25\%}.
+      - Evaluated and critically reviewed AI-generated code using \textbf{Claude Code}, \textbf{GitHub Copilot}, and \textbf{Cursor} daily; documented findings to improve engineering team output quality.
+
+  - title: Software Engineer Intern
     company: ULM Information Technology
     location: Monroe, LA
     date: May 2024 – Present
     achievements:
-      - Developed front-end enhancements for the ULM Museum and Alumni websites, resulting in a \textbf{25\%} increase in user engagement and average session duration.
-      - Migrated \textbf{10,000+} legacy records using \textbf{Python}, implementing database normalization that boosted query performance by \textbf{15\%}.
-      - Optimized university web form systems through rigorous validation and UI improvements, reducing submission errors by \textbf{35\%} and streamlining data collection.
+      - Developed full-stack features for university web platforms using \textbf{Java}, \textbf{JavaScript}, and \textbf{HTML/CSS}, applying algorithms and data structures to reduce submission errors by \textbf{35\%}.
+      - Built \textbf{Python} and \textbf{SQL} data pipelines to process and migrate \textbf{10,000+} legacy records, improving query performance by \textbf{15\%}.
 
 projects:
-  - name: Dristi – AI Accessibility App
-    description: Co-created an AI-powered accessibility app for the blind using \textbf{Flask}, \textbf{Docker}, and computer vision APIs. Won \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (statewide, 70 teams). Pilot testing with blind users improved task completion times by \textbf{40\%}.
+  - name: SATHI – Agentic Career Assistant
+    description: Architected a full-stack agentic career assistant with a \textbf{React} frontend and \textbf{Python}-backed services, integrating \textbf{prompt engineering} and \textbf{RAG} pipelines. Built a multi-source job aggregation engine using \textbf{Adzuna} and \textbf{Himalayas} APIs with custom match-score logic across the full software development lifecycle.
     link: ""
-  - name: Athlyze – ACL Injury Prevention Platform
-    description: Built a real-time computer vision pipeline using \textbf{Google MediaPipe} to detect high-risk biomechanical markers for injury risk assessment via smartphone. Full-stack system with \textbf{React}, \textbf{Firebase}, and \textbf{JavaScript} supporting real-time feedback for athletes across 3 sport categories.
+  - name: Dristi – AI Accessibility App
+    description: Co-built a voice-controlled \textbf{AI application} achieving \textbf{99\%} uptime with low-latency real-time inference. Validated with real users at a blind care center, reducing task completion time by \textbf{40\%}. Won \textbf{2nd Place} at ULM Hawkathon (30+ teams) and \textbf{3rd Place} at Nexus Technology Cup (70 teams statewide).
+    link: ""
+  - name: Athlyze – Sports Analytics Platform
+    description: Built a full-stack sports analytics web application with a \textbf{React} frontend and \textbf{Firebase} backend, delivering intuitive data visualizations and a seamless user experience across mobile and web.
     link: ""
 
 skills:
   - name: Languages
-    items: JavaScript, HTML/CSS, Python, Java, C++, TypeScript
+    items: Python, JavaScript, TypeScript, Java, SQL, C++, HTML/CSS
 
-  - name: Frontend
-    items: React, TypeScript, Responsive Design, UX Best Practices, Node.js
+  - name: Frameworks \& Libraries
+    items: React, Next.js, Flask, Firebase, PostgreSQL, REST API Design
 
-  - name: Backend \& Tools
-    items: FastAPI, Flask, GraphQL, MongoDB, Firebase, Docker, Git, Distributed Systems
+  - name: AI \& Dev Tools
+    items: Claude Code, GitHub Copilot, Cursor, Gemini, Prompt Engineering, Agentic Workflows
 
-  - name: AI \& CS Fundamentals
-    items: Data Structures \& Algorithms, OOP, API Design, AI/ML Concepts, LLMs, GPT-4o, BLIP, MediaPipe, AgentOS
+  - name: Developer Tools
+    items: Git, AWS, CI/CD, Agile, Automated Testing
 
 leadership:
-  - name: Vice President \& Founding Member, Girls Who Code
+  - name: President, Girls Who Code
     date: 2025 – Present
   - name: Treasurer, NSA
     date: 2025 – Present
@@ -77,9 +86,9 @@ leadership:
     date: 2025 – Present
 
 awards:
-  - title: 3rd Place – Nexus Technology Cup
-    issuer: Statewide (70 teams)
-    date: 2025
   - title: 2nd Place – ULM Hawkathon
     issuer: ULM (30+ teams)
+    date: 2025
+  - title: 3rd Place – Nexus Technology Cup
+    issuer: Statewide (70 teams)
     date: 2025

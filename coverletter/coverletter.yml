@@ -31,8 +31,8 @@
 personal_information:
   name: "Unika Bista"
   address:
-    line: "Monroe, LA"
-    postal_code: "71203"
+    line: "San Francisco, CA"
+    postal_code: ""
     country: "United States"
   phone:
     mobile: "+1-318-350-8760"
@@ -41,17 +41,17 @@ personal_information:
 
 recipient:
   name: "Hiring Committee"
-  company: "Covista"
-  title: "Associate Data Engineer"
-  address: "Lisle, IL"
+  company: "[Company Name]"
+  title: "[Role Title]"
+  address: ""
 
 letter:
-  date: "February 14, 2026"
-  opening: "Dear Hiring Committee:"
+  date: ""
+  opening: "Dear [Company Name] Hiring Team:"
   enclosure: "Enclosure: Resume"
   body: |
-    I am excited to apply for the Associate Data Engineer position at Covista. Your mission to expand access to healthcare careers and drive innovation in education resonates with my passion for building data solutions that make a real impact.
+    I am excited to apply for the [Role Title] position at [Company Name]. Your work in building innovative technology solutions resonates with my passion for engineering systems that create real impact.
 
-    At the University of Louisiana at Monroe, I built and maintained data pipelines and ETL processes using SQL and Python, supporting analytics and reporting for university operations. I have experience working with cloud platforms, Airflow, and CI/CD automation, and I enjoy collaborating with analysts and engineers to deliver reliable, scalable data solutions. My background in optimizing SQL queries, documenting pipeline flows, and troubleshooting data issues has prepared me to contribute to Covista’s data-driven culture.
+    As a Computer Science junior at the University of Louisiana at Monroe, I bring hands-on experience across AI and full-stack development. At Xerox, I built and deployed an AI agent across Microsoft 365 to automate reporting for senior leadership at a Fortune 500 company, and engineered a volunteer management system serving 40,000+ employees. At Design Arts Seminars, I built REST API integrations in Python and JavaScript and reviewed AI-generated code with Claude Code, GitHub Copilot, and Cursor. At ULM IT, I shipped full-stack features that cut submission errors 35% and built Python and SQL pipelines migrating 10,000+ records. My project Dristi, a voice-controlled AI accessibility app, won 2nd place at ULM Hawkathon and 3rd at the statewide Nexus Technology Cup. I hold AWS AI Practitioner and Cloud Practitioner certifications, completed the CodePath AI Engineer Program, and serve as President of Girls Who Code.
 
-    I am eager to bring my technical skills and collaborative mindset to your team, and to help Covista continue shaping the future of healthcare education. Thank you for considering my application. Please contact me at +1-318-350-8760 or unika.bista0@gmail.com.
+    I would welcome the opportunity to bring this experience to the [Role Title] role at [Company Name]. Thank you for your consideration. Please reach me at +1-318-350-8760 or unika.bista0@gmail.com.

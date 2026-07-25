@@ -46,7 +46,7 @@ class ResumeGenerator(DocumentGenerator):
         """Returns the LaTeX preamble matching the Overleaf template exactly."""
         return r"""\documentclass[letterpaper,11pt]{article}
 
-\usepackage[top=0.4in, bottom=0.4in, left=0.6in, right=0.6in]{geometry}
+\usepackage[top=0.4in, bottom=0.4in, left=0.5in, right=0.5in]{geometry}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{titlesec}
@@ -57,10 +57,14 @@ class ResumeGenerator(DocumentGenerator):
 % Remove paragraph indent
 \setlength{\parindent}{0pt}
 
+% Tighten vertical spacing to keep resume on 1 page
+\setlength{\parskip}{1pt}
+\setlength{\medskipamount}{2pt}
+
 % Section formatting: bold, with horizontal rule underneath
 \titleformat{\section}
   {\bfseries\normalsize}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{4pt}{2pt}
+\titlespacing{\section}{0pt}{2pt}{1pt}
 
 % Hyperlink styling
 \hypersetup{
@@ -70,7 +74,7 @@ class ResumeGenerator(DocumentGenerator):
 }
 
 % List settings — tight spacing to keep resume on 1 page
-\setlist[itemize]{noitemsep, topsep=2pt, parsep=0pt, partopsep=0pt, leftmargin=1.5em}"""
+\setlist[itemize]{noitemsep, topsep=1pt, parsep=0pt, partopsep=0pt, leftmargin=1.5em}"""
 
     def generate_header(self, personal):
         """Header: large bold name centered, then one contact line."""
